@@ -40,3 +40,4 @@ Challenges Encountered:
 During implementation, multiple issues were encountered with the API key returning HTTP 401 Unauthorized errors, despite being marked as active. This was due to possible propagation delays, account restrictions, or incorrect key formatting. As a temporary workaround for demonstration purposes, the application was modified to print sample weather data without making actual API calls. This approach ensured the completion of the task without disruption, while still adhering to the original functional requirements.
 
 OUTPUT
+<img width="1919" height="1128" alt="17536985110841484107892484787732" src="https://github.com/user-attachments/assets/3461c148-59cf-4a34-8c36-97bbef0b6176" />
